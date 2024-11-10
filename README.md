@@ -1,5 +1,6 @@
 # pbo
 Nama Kelompok
+
 Zatnika Maulana 22315015
 
 M.Irsyad Gani 22315002
@@ -17,6 +18,7 @@ Abdi Alfariza 22315012
 Achmad Fadel Ramadhan 22315018
 
 Soal
+
 1.Tulis program Java untuk membuat kelas bernama "Person" dengan atribut nama dan usia. Buat dua contoh kelas "Person", tetapkan atributnya menggunakan konstruktor, dan cetak nama dan usianya.
 
 2.Tulis program Java untuk membuat kelas bernama "Rectangle" dengan atribut lebar dan tinggi. Hitung luas dan keliling persegi panjang.
@@ -29,11 +31,11 @@ Soal
 
 6.Tulis program Java untuk membuat kelas yang disebut "Perpustakaan" dengan koleksi buku dan metode untuk menambah dan menghapus buku.
 
-7. Tulis program Java untuk membuat kelas yang disebut "Persediaan" dengan koleksi produk dan metode untuk menambah dan menghapus produk, dan untuk memeriksa persediaan yang rendah.
+7.Tulis program Java untuk membuat kelas yang disebut "Persediaan" dengan koleksi produk dan metode untuk menambah dan menghapus produk, dan untuk memeriksa persediaan yang rendah.
 
 8.ulis program Java untuk membuat kelas yang disebut "MusicLibrary" dengan koleksi lagu dan metode untuk menambah dan menghapus lagu, dan untuk memutar lagu acak.
 
-9. Tulis program Java untuk membuat kelas bernama "Movie" dengan atribut untuk judul, sutradara, aktor, dan ulasan, serta metode untuk menambahkan dan mengambil ulasan.
+9.Tulis program Java untuk membuat kelas bernama "Movie" dengan atribut untuk judul, sutradara, aktor, dan ulasan, serta metode untuk menambahkan dan mengambil ulasan.
 
 10.Tulis program Java untuk membuat kelas dengan metode untuk mencari penerbangan dan hotel, dan untuk memesan dan membatalkan reservasi.
 
